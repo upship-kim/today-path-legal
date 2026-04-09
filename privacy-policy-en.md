@@ -123,12 +123,23 @@ This Privacy Policy may be updated in response to changes in law or service poli
 
 ---
 
-## Article 11. Contact
+## Article 11. Privacy Officer & Contact
 
 For privacy-related inquiries or rights requests, please contact:
 
-**Provider:** upship kim  
+**Privacy Officer:** upship kim  
 **Email:** tkdqook@gmail.com
+
+---
+
+## Article 12. Remedies for Privacy Violations
+
+If you believe your privacy rights have been violated, you may contact the following authorities (Korea):
+
+- **Personal Information Infringement Report Center:** [privacy.kisa.or.kr](https://privacy.kisa.or.kr) / 118 (no area code)
+- **Personal Information Dispute Mediation Committee:** [www.kopico.go.kr](https://www.kopico.go.kr) / 1833-6972
+- **Supreme Prosecutors' Office Cyber Investigation Division:** 1301 (no area code)
+- **National Police Agency Cyber Safety Bureau:** 182 (no area code)
 
 ---
 
