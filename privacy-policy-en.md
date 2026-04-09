@@ -1,8 +1,3 @@
----
-layout: default
-title: "Privacy Policy"
----
-
 # Privacy Policy
 
 **Service:** Path of Today (오늘의 길)
@@ -26,13 +21,13 @@ Path of Today is designed around a **local-first** principle: **all user data is
 
 The following information is processed **on your device only**.
 
-| Data Type | How It Is Processed | Purpose | Storage | Retention |
-|-----------|---------------------|---------|---------|-----------|
-| Location (GPS coordinates, routes) | OS location services | Record walking/hiking routes, display on map | On-device SQLite | Until you delete it |
-| Step count | OS motion/activity sensor | Track exercise metrics | On-device SQLite | Until you delete it |
-| Photos | Camera / photo library | Attach photos to walk records | Device storage | Until you delete it |
-| Mood / notes | Direct user input | Mood-based walking journal | On-device SQLite | Until you delete it |
-| Notification interactions | OS notification system | Walk reminders, progress alerts | On-device | While app is running |
+| Data Type                          | How It Is Processed       | Purpose                                      | Storage          | Retention            |
+| ---------------------------------- | ------------------------- | -------------------------------------------- | ---------------- | -------------------- |
+| Location (GPS coordinates, routes) | OS location services      | Record walking/hiking routes, display on map | On-device SQLite | Until you delete it  |
+| Step count                         | OS motion/activity sensor | Track exercise metrics                       | On-device SQLite | Until you delete it  |
+| Photos                             | Camera / photo library    | Attach photos to walk records                | Device storage   | Until you delete it  |
+| Mood / notes                       | Direct user input         | Mood-based walking journal                   | On-device SQLite | Until you delete it  |
+| Notification interactions          | OS notification system    | Walk reminders, progress alerts              | On-device        | While app is running |
 
 > This App does **not** collect any personally identifiable information such as name, ID number, email address, or phone number.
 
@@ -41,10 +36,12 @@ The following information is processed **on your device only**.
 We request the following permissions for the App to function properly. You may revoke any permission at any time through your device settings.
 
 ### Required Permissions
+
 - **Precise Location (FINE_LOCATION):** Obtain accurate GPS coordinates for route recording
 - **Activity Recognition (ACTIVITY_RECOGNITION / Motion):** Measure step count
 
 ### Optional Permissions
+
 - **Background Location (BACKGROUND_LOCATION):** Record routes without interruption while the screen is off (for hiking and long walks)
 - **Notifications (POST_NOTIFICATIONS):** Walk start/stop alerts and reminders
 - **Exact Alarms (SCHEDULE_EXACT_ALARM):** Scheduled time reminders
@@ -57,18 +54,20 @@ Denying optional permissions does not prevent you from using the App; only the s
 
 We do **not** sell or share your personal information with any third party. However, the following third-party services are used for App operation:
 
-| Provider | Data Processed | Purpose | When Transmitted |
-|----------|---------------|---------|------------------|
-| Google LLC (Google Maps) | Anonymous map tile request logs | Map rendering | At time of request |
-| Apple Inc. (Apple Maps, iOS) | Anonymous map tile request logs | iOS map rendering | At time of request |
-| Google Firebase Crashlytics | De-identified, anonymous crash logs | App stability improvement | When a crash occurs |
+| Provider                     | Data Processed                      | Purpose                   | When Transmitted    |
+| ---------------------------- | ----------------------------------- | ------------------------- | ------------------- |
+| Google LLC (Google Maps)     | Anonymous map tile request logs     | Map rendering             | At time of request  |
+| Apple Inc. (Apple Maps, iOS) | Anonymous map tile request logs     | iOS map rendering         | At time of request  |
+| Google Firebase Crashlytics  | De-identified, anonymous crash logs | App stability improvement | When a crash occurs |
+| Sentry (Functional Software Inc.) | De-identified, anonymous error/crash logs | App stability improvement and error monitoring | When an error occurs |
 
 - These services do **not** receive your location history, mood data, or any personal content.
-- Firebase Crashlytics collects only **technical information** (device model, OS version, app version, stack traces). You may disable crash reporting in App settings.
+- Firebase Crashlytics and Sentry collect only **technical information** (device model, OS version, app version, stack traces). You may disable crash reporting in App settings.
 - Third-party privacy policies:
   - Google: https://policies.google.com/privacy
   - Apple: https://www.apple.com/legal/privacy/
   - Firebase: https://firebase.google.com/support/privacy
+  - Sentry: https://sentry.io/privacy/
 
 ## 5. Advertising and Tracking
 
@@ -86,6 +85,7 @@ We do **not** sell or share your personal information with any third party. Howe
 You may exercise the following rights at any time:
 
 ### General Rights
+
 - **Right of Access:** View all your data directly within the App's records screen
 - **Right to Rectification:** Edit your journal entries, notes, and photos within the App
 - **Right to Erasure ("Right to Be Forgotten"):** Delete individual records or uninstall the App to permanently erase all data
@@ -93,11 +93,13 @@ You may exercise the following rights at any time:
 - **Right to Data Portability:** Data export (JSON/CSV) is planned for a future release
 
 ### GDPR Rights (EU/EEA Residents)
+
 - Since we do not store user data on any server, there is no need to submit a separate data access or deletion request.
 - For any inquiries, please contact us at the email below. We will respond within 30 days.
 - Right to lodge a complaint: EU/EEA residents may file a complaint with their local data protection supervisory authority.
 
 ### CCPA Rights (California Residents)
+
 - We do **not sell** your personal information. ("Do Not Sell or Share My Personal Information")
 - You may exercise your rights under this Privacy Policy without discrimination.
 

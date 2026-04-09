@@ -1,8 +1,3 @@
----
-layout: default
-title: "Terms of Service"
----
-
 # Terms of Service
 
 **Service:** Path of Today (오늘의 길)
@@ -69,7 +64,7 @@ Users shall not engage in the following conduct:
 
 1. The Company protects User privacy in accordance with its separate **Privacy Policy.**
 2. Under the local-first principle, the Company does not collect or store personal information on any server.
-3. Certain third-party services (Google Maps, Apple Maps, Firebase Crashlytics) may process anonymous, de-identified technical information as described in the Privacy Policy.
+3. Certain third-party services (Google Maps, Apple Maps, Firebase Crashlytics, Sentry) may process anonymous, de-identified technical information as described in the Privacy Policy.
 
 ## 9. Disclaimers
 

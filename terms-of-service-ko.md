@@ -1,8 +1,3 @@
----
-layout: default
-title: "이용약관"
----
-
 # 이용약관
 
 **서비스명:** 오늘의 길 (The Path of Today)
@@ -69,7 +64,7 @@ title: "이용약관"
 
 1. 회사는 이용자의 개인정보를 별도의 **개인정보처리방침**에 따라 보호합니다.
 2. 회사는 로컬 우선(Local-First) 원칙에 따라 이용자의 개인정보를 서버에 수집·저장하지 않습니다.
-3. 서비스 이용 시 제3자 서비스(Google Maps, Apple Maps, Firebase Crashlytics)가 익명·비식별 기술 정보를 처리할 수 있으며, 이는 개인정보처리방침에 상세히 기재되어 있습니다.
+3. 서비스 이용 시 제3자 서비스(Google Maps, Apple Maps, Firebase Crashlytics, Sentry)가 익명·비식별 기술 정보를 처리할 수 있으며, 이는 개인정보처리방침에 상세히 기재되어 있습니다.
 
 ## 제9조 (면책 조항)
 
