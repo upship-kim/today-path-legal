@@ -73,7 +73,7 @@ The Company does not sell or share your personal information with third parties.
 | Sentry (Functional Software Inc.) | Device model, OS version, app version, stack traces | App stability and error monitoring |
 
 - These services do **not** receive your location history, mood data, or any personal content.
-- Firebase Crashlytics and Sentry collect technical information only. You can disable crash reporting in app settings.
+- Firebase Crashlytics and Sentry collect technical information only.
 
 ---
 
