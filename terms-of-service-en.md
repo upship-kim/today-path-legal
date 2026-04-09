@@ -1,111 +1,89 @@
-# Terms of Service
+# Terms of Service – The Path of Today
 
-**Service:** Path of Today (오늘의 길)
-**Provider:** upship kim
 **Last Updated:** April 9, 2026
-**Effective Date:** April 9, 2026
+
+By installing or using "The Path of Today" (the "Service") provided by upship kim (the "Company"), you agree to these Terms of Service.
 
 ---
 
-These Terms of Service ("Terms") govern your use of the mobile application "Path of Today" ("Service") provided by upship kim ("Company," "we," "us," or "our"). By installing or using the Service, you agree to be bound by these Terms.
+## 1. About the Service
 
-## 1. Purpose
-
-These Terms set forth the conditions for use of the Service, the rights and obligations between the Company and users, and other necessary matters.
-
-## 2. Definitions
-
-1. **"Service"** refers to the mobile application named "Path of Today" and any related services provided by the Company.
-2. **"User"** refers to any individual who uses the Service in accordance with these Terms.
-3. **"Content"** refers to walking records, GPS routes, mood/emotion data, photos, notes, and other materials created by the User through the Service.
-
-## 3. Effectiveness and Amendment of Terms
-
-1. These Terms apply to all Users who install or use the Service.
-2. The Company may amend these Terms to the extent permitted by applicable law.
-3. Any changes to these Terms will be communicated through in-app notifications or update release notes.
-4. Users who do not agree to amended Terms may discontinue use of the Service and uninstall the App.
-
-## 4. Description of the Service
-
-The Service provides the following core features:
-
-1. GPS-based walking and hiking route recording
-2. Mood/emotion and note recording
-3. Photo attachment functionality
-4. Step count measurement
-5. Walking statistics and record management
-6. Walking reminder notifications
-
-## 5. Provision and Modification of the Service
-
-1. The Service is available 24 hours a day, 365 days a year, in principle.
-2. The Service may be temporarily interrupted due to system maintenance, device compatibility issues, or other unavoidable technical circumstances.
-3. The Company may add, modify, or reduce Service features and will provide advance notice for significant changes.
-
-## 6. User Obligations
-
-Users shall not engage in the following conduct:
-
-1. Using the Service for any unlawful purpose
-2. Interfering with the normal operation of the Service
-3. Reverse engineering, decompiling, or disassembling the App
-4. Using the Service to infringe on the rights of others
-5. Any other conduct that violates applicable laws and regulations
-
-## 7. Ownership of Content
-
-1. **All Content** created by Users through the Service (routes, moods, photos, notes, etc.) **belongs to the User.**
-2. The Company does not access or store User Content on any server.
-3. All Content is stored solely on the User's device. The Company does not provide backup or recovery services for Content.
-4. Uninstalling the App permanently deletes all Content stored on the device.
-
-## 8. Privacy
-
-1. The Company protects User privacy in accordance with its separate **Privacy Policy.**
-2. Under the local-first principle, the Company does not collect or store personal information on any server.
-3. Certain third-party services (Google Maps, Apple Maps, Firebase Crashlytics, Sentry) may process anonymous, de-identified technical information as described in the Privacy Policy.
-
-## 9. Disclaimers
-
-1. **Accuracy:** The Company does not guarantee the absolute accuracy of GPS routes, step counts, distances, or other data provided by the Service. Such data is for reference only and must not be used for medical, safety, or legal purposes.
-2. **Data Loss:** The Company is not liable for data loss caused by device malfunction, loss, theft, OS updates, app uninstallation, or any other reason. All data is stored locally, and backup is the User's responsibility.
-3. **Service Interruption:** The Company is not liable for service limitations caused by force majeure (natural disasters, war, government actions), OS policy changes, or third-party service outages (e.g., map API).
-4. **Health and Safety:** The Service is not a medical device, and exercise records do not substitute for professional health advice. Users are responsible for their own safety during walks.
-
-## 10. Intellectual Property
-
-1. Intellectual property rights in the Service itself — including its design, source code, logo, icons, and UI — belong to the Company.
-2. Users may use the Service only for personal, non-commercial purposes.
-
-## 11. Termination
-
-1. Users may terminate their use of the Service at any time by uninstalling the App.
-2. Since there is no account registration system, no separate withdrawal process is required.
-3. Uninstalling the App permanently deletes all data stored on the device.
-
-## 12. Limitation of Liability
-
-1. Unless otherwise required by applicable law, the Company shall not be liable for damages arising from the use of the free Service.
-2. If paid features are introduced, separate terms and applicable laws will govern.
-
-## 13. Governing Law and Jurisdiction
-
-1. These Terms shall be governed by and construed in accordance with the laws of the **Republic of Korea.**
-2. Any disputes arising from the use of the Service shall be subject to the exclusive jurisdiction of the **Seoul Central District Court.**
-
-## 14. International Users
-
-1. The Service is available worldwide. Where local laws of the User's country of residence conflict with these Terms, local laws may take precedence.
-2. EU/EEA residents may exercise rights under the GDPR, and California residents may exercise rights under the CCPA (see Privacy Policy).
-
-## 15. Contact Us
-
-For inquiries regarding these Terms:
-
-- **Provider:** upship kim
-- **Email:** tkdqook@gmail.com
+The Path of Today is an app that offers GPS-based walk and hiking route tracking, mood/emotion journaling, photo attachments, step counting, activity statistics, and reminder notifications.
 
 ---
 
-> These Terms were prepared for the initial release of Path of Today v1.0.0.
+## 2. Changes to These Terms
+
+The Company may update these Terms from time to time. When changes are made, we will notify you **at least 7 days before** the effective date via in-app notice or update release notes. Continued use of the Service after the effective date constitutes acceptance of the updated Terms. If you do not agree, you may stop using the Service by deleting the app.
+
+---
+
+## 3. User Obligations
+
+You agree not to:
+
+- Use the Service for any unlawful purpose
+- Interfere with or disrupt the normal operation of the Service
+- Reverse engineer, decompile, or disassemble the app
+- Use the Service to infringe upon the rights of others
+- Violate any applicable laws or regulations
+
+---
+
+## 4. Content Ownership
+
+All content you create through the Service (routes, moods, photos, notes, etc.) **belongs to you**.
+
+- The Company does not access or store your content on any server.
+- All content is stored solely on your device; backup and management are your responsibility.
+- Deleting the app permanently removes all content stored on your device.
+
+---
+
+## 5. Privacy
+
+The Company operates on a **Local-First** principle — your personal information is not collected or stored on our servers. Third-party tools used for service stability and error analysis may process limited technical information. See our [Privacy Policy](/privacy) for details.
+
+---
+
+## 6. Disclaimers
+
+- **Accuracy:** GPS routes, step counts, and distances are for reference only and must not be used for medical, safety, or legal purposes.
+- **Data Loss:** The Company is not liable for data loss caused by device failure, loss, theft, OS updates, or app deletion. All data is stored locally and backup is your responsibility.
+- **Service Interruption:** The Company is not liable for service limitations caused by force majeure, OS policy changes, or third-party service outages.
+- **Health & Safety:** The Service is not a medical device, and activity records are not a substitute for professional health advice. You are responsible for your safety during walks; however, this does not apply to damages caused by the Company's willful misconduct or gross negligence.
+
+---
+
+## 7. Intellectual Property
+
+All intellectual property rights in the Service — including design, source code, logos, icons, and UI — belong to the Company. The Service may only be used for personal, non-commercial purposes.
+
+---
+
+## 8. Limitation of Liability
+
+For the free Service, the Company shall not be liable for damages to users unless otherwise required by applicable law. If paid features are introduced, separate terms will apply.
+
+---
+
+## 9. Termination
+
+You may terminate use of the Service at any time by deleting the app. No separate withdrawal process is required as there is no account system. All locally stored data will be permanently deleted upon app deletion.
+
+---
+
+## 10. Governing Law & Jurisdiction
+
+These Terms are governed by the laws of the **Republic of Korea**. Any disputes shall be subject to the exclusive jurisdiction of the **Seoul Central District Court**, except where mandatory local laws of your country of residence apply.
+
+---
+
+## Contact
+
+**Provider:** upship kim  
+**Email:** tkdqook@gmail.com
+
+---
+
+ⓒ 2026 upship kim
