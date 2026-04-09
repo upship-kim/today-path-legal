@@ -1,3 +1,8 @@
+---
+layout: default
+title: "개인정보처리방침"
+---
+
 # 개인정보처리방침
 
 **서비스명:** 오늘의 길 (The Path of Today)  

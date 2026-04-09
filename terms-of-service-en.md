@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Terms of Service – The Path of Today"
+---
+
 # Terms of Service – The Path of Today
 
 **Last Updated:** April 9, 2026

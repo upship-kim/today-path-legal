@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Privacy Policy – The Path of Today"
+---
+
 # Privacy Policy – The Path of Today
 
 **Service:** The Path of Today  
