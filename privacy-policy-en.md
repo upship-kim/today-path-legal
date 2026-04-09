@@ -69,10 +69,11 @@ The Company does not sell or share your personal information with third parties.
 |---|---|---|
 | Google LLC (Google Maps) | Anonymous map tile requests | Map rendering |
 | Apple Inc. (Apple Maps) | Anonymous map tile requests | Map rendering (iOS) |
-| App stability tools | Device model, OS version, app version, stack traces | Error analysis and stability improvement |
+| Google Firebase Crashlytics | Device model, OS version, app version, stack traces | App stability and error analysis |
+| Sentry (Functional Software Inc.) | Device model, OS version, app version, stack traces | App stability and error monitoring |
 
 - These services do **not** receive your location history, mood data, or any personal content.
-- App stability tools collect technical information only. You can disable crash reporting in app settings.
+- Firebase Crashlytics and Sentry collect technical information only. You can disable crash reporting in app settings.
 
 ---
 
@@ -98,7 +99,7 @@ You may exercise the following rights at any time:
 - **Deletion:** Delete individual records or delete the app to remove all data immediately
 - **Restriction:** Revoke permissions via device settings to stop data processing
 
-Because the Company does not store your data on servers, no formal data request process is necessary. For any inquiries, contact us at the address below and we will respond within 14 days.
+Because the Company does not store your data on servers, no formal data request process is necessary. For any inquiries, contact us at the address below and we will respond within a reasonable timeframe (no later than 14 days).
 
 ---
 
