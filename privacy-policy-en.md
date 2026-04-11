@@ -7,8 +7,8 @@ title: "Privacy Policy – The Path of Today"
 
 **Service:** The Path of Today  
 **Provider:** upship kim  
-**Last Updated:** April 9, 2026  
-**Effective Date:** April 9, 2026
+**Last Updated:** April 11, 2026  
+**Effective Date:** April 11, 2026
 
 ---
 
@@ -33,7 +33,7 @@ The Company processes the following information **only on your device**.
 | Item | How Collected | Purpose | Storage | Retention |
 |---|---|---|---|---|
 | Location (GPS) | OS location services | Route tracking, map display | On-device SQLite | Until deleted by user |
-| Step count | OS motion sensors | Activity tracking | On-device SQLite | Until deleted by user |
+| Step count / distance / calories | HealthKit (iOS) / Health Connect (Android) | Activity tracking | On-device SQLite | Until deleted by user |
 | Photos | Camera / photo library | Attaching photos to records | On-device storage | Until deleted by user |
 | Mood / notes | User input | Walk journaling | On-device SQLite | Until deleted by user |
 | Notification interactions | OS notification system | Reminders, activity alerts | On-device | While app is running |
@@ -56,6 +56,7 @@ The app requests the following permissions. You can revoke any permission at any
 - **Background Location:** Continuous route tracking when the screen is off (for long hikes or walks)
 - **Notifications:** Walk start/end alerts and reminders
 - **Camera / Photos:** Attaching photos to walk records
+- **Health Data (HealthKit / Health Connect):** Reading today's step count, distance, and calories (processed on-device only; not transmitted to any server)
 
 Denying optional permissions limits only the related features; all other features remain available.
 
@@ -71,8 +72,11 @@ The Company does not sell or share your personal information with third parties.
 | Apple Inc. (Apple Maps) | Anonymous map tile requests | Map rendering (iOS) |
 | Google Firebase Crashlytics | Device model, OS version, app version, stack traces | App stability and error analysis |
 | Sentry (Functional Software Inc.) | Device model, OS version, app version, stack traces | App stability and error monitoring |
+| OpenWeatherMap (OpenWeather Ltd.) | GPS coordinates (latitude, longitude) | Current weather lookup |
+| Google Firebase Remote Config | App version information | Minimum version check for forced updates |
 
-- These services do **not** receive your location history, mood data, or any personal content.
+- Google Maps, Apple Maps, Firebase Crashlytics, Sentry, and Firebase Remote Config do **not** receive your location history, mood data, or any personal content.
+- OpenWeatherMap receives your current GPS coordinates solely for weather lookup and does not store or use them for any other purpose.
 - Firebase Crashlytics and Sentry collect technical information only.
 
 ---
@@ -113,7 +117,7 @@ The Company does not transfer your personal information outside your country. Th
 
 - On-device data is isolated through OS-level app sandboxing
 - The database is stored in an app-private directory inaccessible to other apps
-- No external network transmission occurs beyond map rendering and error reporting
+- No external network transmission occurs beyond map rendering, weather lookup, error reporting, and version checks
 
 ---
 
